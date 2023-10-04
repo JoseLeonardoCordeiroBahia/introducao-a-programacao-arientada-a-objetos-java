@@ -1,9 +1,9 @@
-package resolvendo_um_problema_com_orientacao_a_objetos.application;
+package criando_um_metodo_para_obtermos_os_beneficios_de_reaproveitamento_e_delegacao.application;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import resolvendo_um_problema_com_orientacao_a_objetos.entities.Triangle;
+import criando_um_metodo_para_obtermos_os_beneficios_de_reaproveitamento_e_delegacao.entities.Triangle;
 
 public class Program {
 	
@@ -25,11 +25,8 @@ public class Program {
 		y.b = scanner.nextDouble();
 		y.c = scanner.nextDouble();
 		
-		double p = (x.a + x.b + x.c) / 2.0;
-		double areaX = Math.sqrt(p * (p - x.a) * (p - x.b) * (p -x.c));
-		
-		p = (y.a + y.b + y.c) / 2.0;
-		double areaY = Math.sqrt(p * (p - y.a) * (p - y.b) * (p -y.c));
+		double areaX = x.area();
+		double areaY = y.area();
 		
 		System.out.printf("Triangle X area: %.4f\n", areaX);
 		System.out.printf("Triangle Y area: %.4f\n", areaY);

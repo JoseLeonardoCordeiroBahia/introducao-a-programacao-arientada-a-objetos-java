@@ -1,13 +1,13 @@
 ## Discussão
-![](../assets/discussaoParaMelhorarOProblem.png)
+![](assets/discussaoParaMelhorarOProblem.png)
 
 ## Classe
-![](../assets/explicacaoSobreClasse.png)
+![](assets/explicacaoSobreClasse.png)
 ### Exemplo de classe
-![](../assets/exemploDeClasse.png)
+![](assets/exemploDeClasse.png)
 
 ## Instanciação
-![](../assets/instanciacao.png)
+![](assets/instanciacao.png)
 
 ## Resumo sobre Classes, objetos, atributos
-![](../assets/resumoClassesObjetosAtributos.png)
+![](assets/resumoClassesObjetosAtributos.png)

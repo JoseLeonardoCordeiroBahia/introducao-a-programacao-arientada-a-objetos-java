@@ -2,3 +2,6 @@
 
 ## Exemplo
 ![](assets/exemploDoProblem.png)
+
+## Discussão
+![](assets/discussao.png)
